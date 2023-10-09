@@ -8,7 +8,7 @@
     I developed this project as a starting point to explore the fundamental concepts and best practices of development on one of the most popular platforms for creating mobile applications.
   </p>
 
-  <h1 />
+  ---
 
   <h3>📚 Technologies</h3>
 
@@ -19,7 +19,7 @@
   ![Javascript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=0DACE0)
   ![Styled-components](https://img.shields.io/badge/styled--components-0d1117?style=for-the-badge&logo=styled-components&logoColor=0DACE0)
 
-  <h1 />
+  ---
 
   ### Installation Guide (Linux and Windows)
 
