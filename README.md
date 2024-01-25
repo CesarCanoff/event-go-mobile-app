@@ -8,14 +8,14 @@
 ![Expo](https://img.shields.io/badge/expo-0d1117?style=for-the-badge&logo=expo&logoColor=0DACE0)
 ![Javascript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=0DACE0)
 
+<a href="https://snack.expo.dev/@cesarcanoff/b34e26">See on the web</a>
+
 ---
 
 ### Prerequisites
 - NodeJS
 - npm
 - Android emulator
-
-<a href="https://snack.expo.dev/@cesarcanoff/b34e26">See on the web</a>
 
 <details>
   <summary>Simple Installation</summary>
